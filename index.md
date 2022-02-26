@@ -1,5 +1,19 @@
 ## Welcome to GitHub Pages
 
+# **About Me**
+
+### _Favourite Foods_
+
+1.Pasta
+
+2.Mashed Potatoes
+
+### _Hobbies_
+
+1.Reading
+
+2.Video Games
+
 You can use the [editor on GitHub](https://github.com/leads1474/sydneyleader/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
